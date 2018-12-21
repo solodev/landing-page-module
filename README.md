@@ -9,7 +9,7 @@
 ## Step 1: Add the Form
  - landing-page-form.tpl
 
-Create a calendar for the Landing Page and upload the following form 
+Create a calendar for the Landing Page and upload the following form. Be sure to replace SITE_NAME with your site's name.
 
 ```
 <div class="panel-group">
