@@ -136,7 +136,7 @@ Create a calendar for the Landing Page and upload the following form. Be sure to
                 <div class="row">
                     <div class="col-md-12">
                         <p class="subText">You can access this blog post at the following URL:</p>
-                        <a href="https://www.100k-theme.com<?= $calendar_entry->path ?>" target="_blank">https://www.100k-theme.com<?= $calendar_entry->path ?></a>
+                        <a href="https://www.SITE_NAME.com<?= $calendar_entry->path ?>" target="_blank">https://www.SITE_NAME.com<?= $calendar_entry->path ?></a>
                     </div>
                 </div>
             </div>
