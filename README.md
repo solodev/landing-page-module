@@ -287,6 +287,7 @@ Add the following detail template.
       </div>
     </div>
   </div>
+  {{post_javascript}}
 [/entry]
 
 
