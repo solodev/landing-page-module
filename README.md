@@ -214,10 +214,12 @@ Add the following detail template.
     </section>
     <section class="bg-primary-dark text-center text-white py-5 mt-sm-5">
       <div class="container">
-        <div class="w-lg-50 w-md-75 mx-auto">
+        <div class="row">
+        <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
           <h2>{{mid_title}}</h2>
           <p>{{mid_content_supporting}}</p>
         </div>
+	</div>
         <!-- Begin Fourbox -->
 
     <div class="row mt-lg-5">
