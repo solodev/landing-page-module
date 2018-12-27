@@ -120,4 +120,5 @@
       </div>
     </div>
   </div>
+  {{post_javascript}}
 [/entry]
